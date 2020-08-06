@@ -1,3 +1,4 @@
+### Hi there, I'm [Shubham!](https://shubhamlatkar.github.io) 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
 <p align="center">
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack | System Design | Micro Services | Competetive Programming | Machine Learning   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -35,12 +36,16 @@
     
 *************
 
-<a href="https://github.com/anuraghazra/github-readme-stats"  align="left" > 
-  <img  height="270px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamlatkar&hide=jupyter notebook"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats"  align="right" > 
-  <img  height="270px" width="450px"  src="https://github-readme-stats.vercel.app/api?username=shubhamlatkar&show_icons=true&theme=dark&include_all_commits=true"/>
-</a>
+<p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+     <img  height="270px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamlatkar&hide=jupyter notebook"/>
+   </a>
+</p>
+<p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+     <img  height="270px" width="500px"  src="https://github-readme-stats.vercel.app/api?username=shubhamlatkar&show_icons=true&theme=dark&include_all_commits=true"/>
+   </a>
+</p>
 
 
 *************

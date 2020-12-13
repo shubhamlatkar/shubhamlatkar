@@ -28,9 +28,6 @@
       <li>
         <h4>💬 Ask me about ...Spring Boot, NodeJS and ReactJS</h4>
       </li>
-      <li>
-        <h4>📫 How to reach me: ...9850069540 | shubhamlatkar@gmail.com </h4>
-      </li>
     </ul>
 </p>
     
